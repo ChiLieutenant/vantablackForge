@@ -1,0 +1,12 @@
+net\vantahub\systems\recipe\NBTEditor$MinecraftVersion.class
+net\vantahub\systems\recipe\NBTEditor$NBTCompound.class
+net\vantahub\systems\recipe\ChatEditTabCompleter.class
+net\vantahub\systems\recipe\NBTEditor.class
+net\vantahub\systems\level\levelMethods.class
+net\vantahub\systems\recipe\ItemUpdateListener.class
+net\vantahub\systems\guis\ItemGUI.class
+net\vantahub\systems\recipe\ChatEdit.class
+net\vantahub\systems\level\LevelGUI.class
+net\vantahub\systems\level\levelMethods$1.class
+net\vantahub\systems\recipe\Recipe.class
+net\vantahub\systems\guis\ForgeGUI.class

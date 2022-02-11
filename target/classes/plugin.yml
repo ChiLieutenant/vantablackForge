@@ -1,0 +1,8 @@
+name: Forge
+version: '1.0'
+main: net.vantahub.Forge
+api-version: 1.16
+authors: [ ChiLieutenant ]
+commands:
+  fr:
+  levelgui:
